@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "buildyourhome__uncreative_people:blocks/holocram",
+    "bottom": "buildyourhome__uncreative_people:blocks/holocram",
+    "top": "buildyourhome__uncreative_people:blocks/hologram",
+    "side": "buildyourhome__uncreative_people:blocks/hologram"
+  }
+}

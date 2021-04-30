@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "buildyourhome__uncreative_people:items/blueprint_house"
+  }
+}

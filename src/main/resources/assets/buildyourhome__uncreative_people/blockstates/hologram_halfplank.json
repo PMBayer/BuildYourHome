@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "buildyourhome__uncreative_people:block/hologram_halfplank"
+    },
+    "type=top": {
+      "model": "buildyourhome__uncreative_people:block/hologram_halfplank_top"
+    },
+    "type=double": {
+      "model": "buildyourhome__uncreative_people:block/hologram_halfplank_full"
+    }
+  }
+}

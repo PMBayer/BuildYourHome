@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "buildyourhome__uncreative_people:blocks/hologram",
+    "up": "buildyourhome__uncreative_people:blocks/hologram",
+    "north": "buildyourhome__uncreative_people:blocks/hologram",
+    "east": "buildyourhome__uncreative_people:blocks/hologram",
+    "south": "buildyourhome__uncreative_people:blocks/hologram",
+    "west": "buildyourhome__uncreative_people:blocks/hologram",
+    "particle": "buildyourhome__uncreative_people:blocks/hologram"
+  }
+}

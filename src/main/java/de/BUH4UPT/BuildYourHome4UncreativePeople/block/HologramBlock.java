@@ -45,7 +45,7 @@ public class HologramBlock extends BuildyourhomeUncreativePeopleModElements.ModE
 
 	@Override
 	public void initElements() {
-		elements.blocks.add(() -> new CustomBlock());
+		elements.blocks.add(CustomBlock::new);
 		elements.items
 				.add(() -> new BlockItem(block, new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)).setRegistryName(block.getRegistryName()));
 	}

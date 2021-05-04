@@ -1,3 +1,5 @@
+package assets.buildyourhome__uncreative_people.models.item
+
 buildscript {
     repositories {
         maven { url = 'https://files.minecraftforge.net/maven' }
